@@ -1,0 +1,82 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Nunito Sans", sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.header {
+    background-color: #4caf50;
+    padding: 20px;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-list {
+    list-style: none;
+    display: flex;
+}
+
+.navbar-item {
+    margin: 0 15px;
+}
+
+.navbar-link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.faq-title {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 2.5em;
+    color: #4caf50;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.faq-section {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+}
+
+.faq-question {
+    font-weight: bold;
+    color: #4caf50;
+}
+
+.faq-answer {
+    margin-top: 10px;
+    line-height: 1.5;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #4caf50;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
