@@ -10,5 +10,5 @@ Langkah-langkah untuk run coding EcoMarket
 9. Pastikan nama databasenya di file yang sama dengan .env
 10. Lalu jalankan "php artisan serve"
 
-File database : LinkGoogle-Drive : https://drive.google.com/drive/folders/1DIrMmfjVSEHrM5Imft5RItcl-b7Z2kfH?usp=sharing 
+Opsi jika file database tidak ada : LinkGoogle-Drive : https://drive.google.com/drive/folders/1DIrMmfjVSEHrM5Imft5RItcl-b7Z2kfH?usp=sharing 
 Keterangan : Nama Github AlexiusGerald26 Punya Muhammad Rival Fahri karena menggunakan laptop teman Rival.
