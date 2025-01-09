@@ -8,7 +8,8 @@ Langkah-langkah untuk run coding EcoMarket
 7. Samakan nama db_database dengan php my admin
 8. Lalu import file database ke phpmyadmin 
 9. Pastikan nama databasenya di file yang sama dengan .env
-10. Lalu jalankan "php artisan serve"
+10. Ketikan "php artisan storage:link" agar foto dapat di akses secara public
+11. Lalu jalankan "php artisan serve"
 
 Opsi jika file database tidak ada : LinkGoogle-Drive : https://drive.google.com/drive/folders/1DIrMmfjVSEHrM5Imft5RItcl-b7Z2kfH?usp=sharing 
 Keterangan : Nama Github AlexiusGerald26 Punya Muhammad Rival Fahri karena menggunakan laptop teman Rival.
